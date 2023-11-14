@@ -1269,14 +1269,6 @@
               <bucket>#2017-01-01 00:00:00#</bucket>
             </map>
           </encoding>
-          <encoding attr='color' field='[none:Sex:nk]' type='palette'>
-            <map to='#4e79a7'>
-              <bucket>&quot;F&quot;</bucket>
-            </map>
-            <map to='#e15759'>
-              <bucket>&quot;M&quot;</bucket>
-            </map>
-          </encoding>
           <encoding attr='color' field='[none:RaceDesc:nk]' type='palette'>
             <map to='#4e79a7'>
               <bucket>&quot;American Indian or Alaska Native&quot;</bucket>
@@ -1315,6 +1307,14 @@
             </map>
             <map to='#f28e2b'>
               <bucket>&quot;Sales&quot;</bucket>
+            </map>
+          </encoding>
+          <encoding attr='color' field='[none:Sex:nk]' type='palette'>
+            <map to='#4e79a7'>
+              <bucket>&quot;F&quot;</bucket>
+            </map>
+            <map to='#e15759'>
+              <bucket>&quot;M&quot;</bucket>
             </map>
           </encoding>
         </style-rule>
@@ -2064,8 +2064,8 @@
         <devicelayout auto-generated='true' name='Phone'>
           <size maxheight='700' minheight='700' sizing-mode='vscroll' />
           <zones>
-            <zone h='100000' id='31' type-v2='layout-basic' w='100000' x='0' y='0'>
-              <zone h='98000' id='30' param='vert' type-v2='layout-flow' w='99030' x='485' y='1000'>
+            <zone h='100000' id='33' type-v2='layout-basic' w='100000' x='0' y='0'>
+              <zone h='84000' id='32' param='vert' type-v2='layout-flow' w='84000' x='8000' y='8000'>
                 <zone fixed-size='280' h='97125' id='17' is-fixed='true' name='Proporcion de gente por raza' w='53576' x='45758' y='1375'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
@@ -2106,32 +2106,6 @@
       </devicelayouts>
       <simple-id uuid='{5CEF3AF9-FF74-4348-9AF7-1EDC9C3EFDC5}' />
     </dashboard>
-    <dashboard name='Historia 1' type='storyboard'>
-      <style />
-      <size maxheight='964' maxwidth='4016' minheight='964' minwidth='4016' sizing-mode='fixed' />
-      <zones>
-        <zone h='100000' id='2' type-v2='layout-basic' w='100000' x='0' y='0'>
-          <zone h='98340' id='1' param='vert' removable='false' type-v2='layout-flow' w='99602' x='199' y='830'>
-            <zone h='4357' id='3' type-v2='title' w='99602' x='199' y='830' />
-            <zone h='10477' id='4' is-fixed='true' paired-zone-id='5' removable='false' type-v2='flipboard-nav' w='99602' x='199' y='5187' />
-            <zone h='83506' id='5' paired-zone-id='4' removable='false' type-v2='flipboard' w='99602' x='199' y='15664'>
-              <flipboard active-id='1' nav-type='caption' show-nav-arrows='true'>
-                <story-points>
-                  <story-point captured-sheet='diferencia de Salario por sexo' id='1' />
-                </story-points>
-              </flipboard>
-            </zone>
-          </zone>
-          <zone-style>
-            <format attr='border-color' value='#000000' />
-            <format attr='border-style' value='none' />
-            <format attr='border-width' value='0' />
-            <format attr='margin' value='8' />
-          </zone-style>
-        </zone>
-      </zones>
-      <simple-id uuid='{0E9F8231-1DC8-4CD5-8C05-6817F40E9C78}' />
-    </dashboard>
     <dashboard _.fcp.AccessibleZoneTabOrder.true...enable-sort-zone-taborder='true' name='Relacion de despido con salario y ausencia '>
       <style />
       <size maxheight='1400' maxwidth='1700' minheight='1400' minwidth='1700' sizing-mode='fixed' />
@@ -2166,8 +2140,8 @@
         <devicelayout auto-generated='true' name='Phone'>
           <size maxheight='1000' minheight='1000' sizing-mode='vscroll' />
           <zones>
-            <zone h='100000' id='28' type-v2='layout-basic' w='100000' x='0' y='0'>
-              <zone h='98858' id='27' param='vert' type-v2='layout-flow' w='99058' x='471' y='571'>
+            <zone h='100000' id='30' type-v2='layout-basic' w='100000' x='0' y='0'>
+              <zone h='98858' id='29' param='vert' type-v2='layout-flow' w='99058' x='471' y='571'>
                 <zone h='3769' id='10' mode='checkdropdown' name='Despidos por año/departamento/razon' param='[federated.15dpjiv0bae0eq15bl7651s89v92].[none:Department:nk]' type-v2='filter' w='9882' x='70000' y='50231'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
@@ -2271,8 +2245,8 @@
         <devicelayout auto-generated='true' name='Phone'>
           <size maxheight='1150' minheight='1150' sizing-mode='vscroll' />
           <zones>
-            <zone h='100000' id='40' type-v2='layout-basic' w='100000' x='0' y='0'>
-              <zone h='98000' id='39' param='vert' type-v2='layout-flow' w='99000' x='500' y='1000'>
+            <zone h='100000' id='42' type-v2='layout-basic' w='100000' x='0' y='0'>
+              <zone h='84000' id='41' param='vert' type-v2='layout-flow' w='84000' x='8000' y='8000'>
                 <zone h='8125' id='11' mode='checkdropdown' name='Salario por mujer' param='[federated.15dpjiv0bae0eq15bl7651s89v92].[none:EmploymentStatus:nk]' type-v2='filter' w='6875' x='40750' y='4125'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
@@ -2489,7 +2463,7 @@
           <zoom type='entire-view' />
         </viewpoint>
       </viewpoints>
-      <active id='16' />
+      <active id='-1' />
       <simple-id uuid='{3F68FBBA-7047-450F-81CE-D5ABC26A734A}' />
     </window>
     <window class='worksheet' name='Salario medio por raza'>
@@ -2611,7 +2585,7 @@
           <zoom type='entire-view' />
         </viewpoint>
       </viewpoints>
-      <active id='17' />
+      <active id='-1' />
       <simple-id uuid='{92CEBB72-0C2B-4F63-8B22-BC0A42BF797F}' />
     </window>
     <window class='worksheet' name='Salario medio por departamento'>
@@ -2737,13 +2711,8 @@
         <viewpoint name='Despidos por año/departamento/razon' />
         <viewpoint name='Salario medio por departamento' />
       </viewpoints>
-      <active id='3' />
+      <active id='5' />
       <simple-id uuid='{5BD11EB5-7332-420E-88C1-23A5F7FE9510}' />
-    </window>
-    <window class='dashboard' name='Historia 1'>
-      <viewpoints />
-      <active id='-1' />
-      <simple-id uuid='{3122B763-8758-4806-990C-D52EA87485EF}' />
     </window>
   </windows>
   <thumbnails>
@@ -3226,32 +3195,6 @@
       +s+9oWMzFI2dawNisTNft1MJkunfH2Gy+aYODvTxpf/CUDR63v/zVZZlkYoPcfDgIWKJJLHY
       8Fn7Go/HzzlGX18fAL2hE8QSKQCi0aGzthttTbFYjFQyzvBwjHgWf6lHGvur88QG+2lpaaGr
       u+e8443F+X5OsViMVCJGdDhJLBY7/b2MRqMXfFp9rrn+H5nzi66nVSfiAAAAAElFTkSuQmCC
-    </thumbnail>
-    <thumbnail height='192' name='Historia 1' width='192'>
-      iVBORw0KGgoAAAANSUhEUgAAAMAAAADACAYAAABS3GwHAAAACXBIWXMAABJ0AAASdAHeZh94
-      AAAEuUlEQVR4nO3aTYhVZQCH8f+dq6PjR5NYg18NIhElJoa4KxjaSGBQMBkYWRBMtMl1LWov
-      raKFTJqgpUGGi8hWLgxtEJsi0UHT9I7DfKhzm7mOo9Pt6m0xIUoTDZi6eJ7f5sA957zvew48
-      i3PPKdTr9XokqIYHvQDpQTIAoRmA0P47gJvVnD134a4mqY5XcmHg8l2NId0LdwRwcF9njvQM
-      JUlGz3fn493f/h1A35Qnb/1o67QmqV6rpG/w3wO4+cfV7N29M6+/vWW665b+FzOmc8Sl/qGk
-      XsvendtzpVrI0ieezqPFKzl54mQ6Ozuz4ZXNudhzOD/8cjYzZ8/Pm29sSteBL/PwijU5cux4
-      Nq9fk6FyJaldzfZPd6WWehatWJ2X1j83OUehmA3tr+VMaerQpHvlHwF8t39PTh6el4mRgWTJ
-      uiS19Pb2J9cu5efSWD58f0tmzyymWCzm0LHj6ejoSKoj2f59Tz54792c6jqQ/Qd/THGwL+du
-      LM47b76ayvnu9F/8PSnOSfvG9pwr9eWLfftvBdDQ2JT59/vKpUzxDPDCy5vS0dGRzRtfvHPH
-      3CV5q70tn+/Ylm27vr5jV218JLOaW5IkS5cuyXC5nCRpa2tL4bbjhksn8slnX+VGvZ5CQyHS
-      gzbtf4H+rAzmp18H8szatRkdnnxOuHntSrqOHs3YzMVpHD2dQ0e6smPPN3n+2XVTjlGdGM+s
-      pnkZGylnbHzi1u/jlXK6u7szPDy5LVfG7/KypOkp3P4meOTyQBrmPJLmuY2pXR/LUKWaZYua
-      UyoNZfnyZSlf7E/v4HBWrlyV2Y3FXL86mlNnSnlq1eo0NtTSc6InLa0r0rLgoVweuJB5La1p
-      mpHbxlqY3t9Op9C0ILkxkdbHWpNMBnDqbOnWopY//mQWNs+97zdDPAU/hRCZL8KEZgBCMwCh
-      GYDQDEBoBiA0AxCaAQjNAIRmAEIzAKEZgNAMQGgGIDQDEJoBCM0AhGYAQjMAoRmA0AxAaAYg
-      NAMQmgEIzQCEZgBCMwChGYDQDEBoBiA0AxCaAQjNAIRmAEIzAKEZgNAMQGgGIDQDEJoBCM0A
-      hGYAQjMAoRmA0AxAaAYgNAMQmgEIzQCEZgBCMwChGYDQDEBoBiA0AxCaAQjNAIRmAEIzAKEZ
-      gNAMQGgGIDQDEJoBCM0AhGYAQjMAoRmA0AxAaAYgNAMQmgEIzQCEZgBCMwChGYDQDEBoBiA0
-      AxCaAQjNAIRmAEIzAKEZgNAMQGgGIDQDEJoBCM0AhGYAQjMAoRmA0AxAaAYgNAMQmgEIzQCE
-      ZgBCMwChGYDQDEBoBiA0AxCaAQjNAIRmAEIzAKEZgNAMQGgGIDQDEJoBCM0AhGYAQjMAoRmA
-      0AxAaAYgNAMQmgEIzQCEZgBCMwChGYDQDEBoBiA0AxCaAQjNAIRmAEIzAKEZgNAMQGgGIDQD
-      EJoBCM0AhGYAQjMAoRmA0AxAaAYgNAMQmgEIzQCEZgBCMwChGYDQDEBoBiA0AxCaAQjNAIRm
-      AEIzAKEZgNAMQGgGIDQDEJoBCM0AhGYAQjMAoRmA0AxAaAYgNAMQmgEIzQCEZgBCMwChGYDQ
-      DEBoBiA0AxCaAQjNAIRmAEIzAKEZgND+Ap6l/BXPs82tAAAAAElFTkSuQmCC
     </thumbnail>
     <thumbnail height='192' name='Proporcion de gente por raza' width='192'>
       iVBORw0KGgoAAAANSUhEUgAAAMAAAADACAYAAABS3GwHAAAACXBIWXMAABJ0AAASdAHeZh94
