@@ -1,0 +1,312 @@
+EmpID,Employee_Name,EmploymentStatus,Sex,RaceDesc,Department,Salary,DateofHire,DateofTermination,TermReason,Absences
+10026,"Adinolfi, Wilson  K",Active,M ,White,Production       ,62506,7/5/2011,,N/A-StillEmployed,1
+10084,"Ait Sidi, Karthikeyan   ",Voluntarily Terminated,M ,White,IT/IS,104437,3/30/2015,6/16/2016,career change,17
+10196,"Akinkuolie, Sarah",Voluntarily Terminated,F,White,Production       ,64955,7/5/2011,9/24/2012,hours,3
+10088,"Alagbe,Trina",Active,F,White,Production       ,64991,1/7/2008,,N/A-StillEmployed,15
+10069,"Anderson, Carol ",Voluntarily Terminated,F,White,Production       ,50825,7/11/2011,9/6/2016,return to school,2
+10002,"Anderson, Linda  ",Active,F,White,Production       ,57568,1/9/2012,,N/A-StillEmployed,15
+10194,"Andreola, Colby",Active,F,White,Software Engineering,95660,11/10/2014,,N/A-StillEmployed,19
+10062,"Athwal, Sam",Active,M ,White,Production       ,59365,9/30/2013,,N/A-StillEmployed,19
+10114,"Bachiochi, Linda",Active,F,Black or African American,Production       ,47837,7/6/2009,,N/A-StillEmployed,4
+10250,"Bacong, Alejandro ",Active,M ,White,IT/IS,50178,1/5/2015,,N/A-StillEmployed,16
+10252,"Baczenski, Rachael  ",Voluntarily Terminated,F,Black or African American,Production       ,54670,1/10/2011,1/12/2017,Another position,12
+10242,"Barbara, Thomas",Voluntarily Terminated,M ,Black or African American,Production       ,47211,4/2/2012,9/19/2016,unhappy,15
+10012,"Barbossa, Hector",Active,M ,Black or African American,IT/IS,92328,11/10/2014,,N/A-StillEmployed,9
+10265,"Barone, Francesco  A",Active,M ,Two or more races,Production       ,58709,2/20/2012,,N/A-StillEmployed,7
+10066,"Barton, Nader",Voluntarily Terminated,M ,White,Production       ,52505,9/24/2012,4/6/2017,Another position,1
+10061,"Bates, Norman",Terminated for Cause,M ,White,Production       ,57834,2/21/2011,8/4/2017,attendance,20
+10023,"Beak, Kimberly  ",Active,F,White,Production       ,70131,7/21/2016,,N/A-StillEmployed,16
+10055,"Beatrice, Courtney ",Active,F,White,Production       ,59026,4/4/2011,,N/A-StillEmployed,12
+10245,"Becker, Renee",Terminated for Cause,F,White,IT/IS,110000,7/7/2014,9/12/2015,performance,8
+10277,"Becker, Scott",Active,M ,Asian,Production       ,53250,7/8/2013,,N/A-StillEmployed,13
+10046,"Bernstein, Sean",Active,M ,White,Production       ,51044,4/2/2012,,N/A-StillEmployed,13
+10226,"Biden, Lowan  M",Active,F,Asian,Production       ,64919,8/19/2013,,N/A-StillEmployed,2
+10003,"Billis, Helen",Active,F,White,Production       ,62910,7/7/2014,,N/A-StillEmployed,19
+10294,"Blount, Dianna",Active,F,White,Production       ,66441,4/4/2011,,N/A-StillEmployed,3
+10267,"Bondwell, Betsy",Voluntarily Terminated,F,White,Production       ,57815,1/10/2011,4/4/2014,career change,5
+10199,"Booth, Frank",Terminated for Cause,M ,Black or African American,IT/IS,103613,2/17/2014,2/19/2016,Learned that he is a gangster,2
+10081,"Boutwell, Bonalyn",Active,F,Black or African American,Admin Offices,106367,2/16/2015,,N/A-StillEmployed,4
+10175,"Bozzi, Charles",Voluntarily Terminated,M ,Asian,Production       ,74312,9/30/2013,8/7/2014,retiring,14
+10177,"Brill, Donna",Voluntarily Terminated,F,White,Production       ,53492,4/2/2012,6/15/2013,Another position,6
+10238,"Brown, Mia",Active,F,Black or African American,Admin Offices,63000,10/27/2008,,N/A-StillEmployed,14
+10184,"Buccheri, Joseph  ",Active,M ,White,Production       ,65288,9/29/2014,,N/A-StillEmployed,9
+10203,"Bugali, Josephine ",Active,F,Black or African American,Production       ,64375,11/11/2013,,N/A-StillEmployed,17
+10188,"Bunbury, Jessica",Voluntarily Terminated,F,Black or African American,Sales,74326,8/15/2011,8/2/2014,Another position,19
+10107,"Burke, Joelle",Active,F,Black or African American,Production       ,63763,3/5/2012,,N/A-StillEmployed,3
+10181,"Burkett, Benjamin ",Active,M ,White,Production       ,62162,4/4/2011,,N/A-StillEmployed,15
+10150,"Cady, Max ",Active,M ,White,Software Engineering,77692,8/15/2011,,N/A-StillEmployed,4
+10001,"Candie, Calvin",Active,M ,White,Production       ,72640,1/28/2016,,N/A-StillEmployed,14
+10085,"Carabbio, Judith",Active,F,White,Software Engineering,93396,11/11/2013,,N/A-StillEmployed,3
+10115,"Carey, Michael  ",Active,M ,Black or African American,Production       ,52846,3/31/2014,,N/A-StillEmployed,14
+10082,"Carr, Claudia  N",Active,F,Black or African American,IT/IS,100031,6/30/2016,,N/A-StillEmployed,7
+10040,"Carter, Michelle ",Active,F,White,Sales,71860,8/18/2014,,N/A-StillEmployed,7
+10067,"Chace, Beatrice ",Active,F,White,Production       ,61656,9/29/2014,,N/A-StillEmployed,11
+10108,"Champaigne, Brian",Active,M ,White,IT/IS,110929,9/6/2016,,N/A-StillEmployed,8
+10210,"Chan, Lin",Active,F,White,Production       ,54237,5/12/2014,,N/A-StillEmployed,11
+10154,"Chang, Donovan  E",Active,M ,White,Production       ,60380,7/8/2013,,N/A-StillEmployed,4
+10200,"Chigurh, Anton",Active,M ,Black or African American,Sales,66808,5/14/2012,,N/A-StillEmployed,17
+10240,"Chivukula, Enola",Voluntarily Terminated,F,White,Production       ,64786,6/27/2011,11/15/2015,relocation out of area,3
+10168,"Cierpiszewski, Caroline  ",Active,F,Black or African American,Production       ,64816,10/3/2011,,N/A-StillEmployed,3
+10220,"Clayton, Rick",Active,M ,White,IT/IS,68678,9/5/2012,,N/A-StillEmployed,2
+10275,"Cloninger, Jennifer",Voluntarily Terminated,F,White,Production       ,64066,5/16/2011,1/7/2013,unhappy,9
+10269,"Close, Phil",Voluntarily Terminated,M ,White,Production       ,59369,8/30/2010,9/26/2011,career change,6
+10029,"Clukey, Elijian",Active,M ,White,Production       ,50373,7/6/2016,,N/A-StillEmployed,5
+10261,"Cockel, James",Active,M ,White,Production       ,63108,7/8/2013,,N/A-StillEmployed,3
+10292,"Cole, Spencer",Terminated for Cause,M ,Black or African American,Production       ,59144,7/11/2011,9/23/2016,performance,16
+10282,"Corleone, Michael",Active,M ,White,Production       ,68051,7/20/2010,,N/A-StillEmployed,3
+10019,"Corleone, Vito",Active,M ,Black or African American,Production       ,170500,1/5/2009,,N/A-StillEmployed,15
+10094,"Cornett, Lisa ",Active,F,White,Production       ,63381,1/5/2015,,N/A-StillEmployed,6
+10193,"Costello, Frank",Active,M ,White,IT/IS,83552,3/30/2015,,N/A-StillEmployed,2
+10132,"Crimmings,   Jean",Active,F,White,Production       ,56149,7/6/2016,,N/A-StillEmployed,15
+10083,"Cross, Noah",Active,M ,White,IT/IS,92329,11/10/2014,,N/A-StillEmployed,5
+10099,"Daneault, Lynn",Active,F,White,Sales,65729,5/5/2014,,N/A-StillEmployed,8
+10212,"Daniele, Ann  ",Active,F,White,IT/IS,85028,11/10/2014,,N/A-StillEmployed,19
+10056,"Darson, Jene'ya ",Active,F,White,Production       ,57583,7/2/2012,,N/A-StillEmployed,1
+10143,"Davis, Daniel",Active,M ,Two or more races,Production       ,56294,11/7/2011,,N/A-StillEmployed,6
+10311,"Dee, Randy",Active,M ,White,Production       ,56991,7/9/2018,,N/A-StillEmployed,2
+10070,"DeGweck,  James",Voluntarily Terminated,M ,White,Production       ,55722,5/16/2011,6/8/2016,unhappy,14
+10155,"Del Bosque, Keyla",Active,F,Black or African American,Software Engineering,101199,1/9/2012,,N/A-StillEmployed,8
+10306,"Delarge, Alex",Active,M ,Two or more races,Sales,61568,9/29/2014,,N/A-StillEmployed,5
+10100,"Demita, Carla",Voluntarily Terminated,F,Black or African American,Production       ,58275,4/4/2011,11/4/2015,more money,1
+10310,"Desimone, Carl ",Active,M ,White,Production       ,53189,7/7/2014,,N/A-StillEmployed,9
+10197,"DeVito, Tommy",Active,M ,White,IT/IS,96820,2/15/2017,,N/A-StillEmployed,15
+10276,"Dickinson, Geoff ",Active,M ,White,Production       ,51259,5/12/2014,,N/A-StillEmployed,1
+10304,"Dietrich, Jenna  ",Active,F,White,Sales,59231,2/20/2012,,N/A-StillEmployed,17
+10284,"DiNocco, Lily ",Active,F,Black or African American,Production       ,61584,1/7/2013,,N/A-StillEmployed,6
+10207,"Dobrin, Denisa  S",Active,F,White,Production       ,46335,4/2/2012,,N/A-StillEmployed,15
+10133,"Dolan, Linda",Active,F,White,IT/IS,70621,1/5/2015,,N/A-StillEmployed,16
+10028,"Dougall, Eric",Active,M ,Black or African American,IT/IS,138888,1/5/2014,,N/A-StillEmployed,4
+10006,"Driver, Elle",Active,F,White,Sales,74241,1/10/2011,,N/A-StillEmployed,14
+10105,"Dunn, Amy  ",Active,F,White,Production       ,75188,9/18/2014,,N/A-StillEmployed,4
+10211,"Dunne, Amy",Active,F,White,Production       ,62514,4/26/2010,,N/A-StillEmployed,6
+10064,"Eaton, Marianne",Voluntarily Terminated,F,White,Production       ,60070,4/4/2011,6/6/2017,military,7
+10247,"Engdahl, Jean",Active,M ,White,Production       ,48888,11/10/2014,,N/A-StillEmployed,8
+10235,"England, Rex",Active,M ,White,Production       ,54285,3/31/2014,,N/A-StillEmployed,3
+10299,"Erilus, Angela",Active,F,White,Production       ,56847,7/7/2014,,N/A-StillEmployed,5
+10280,"Estremera, Miguel",Terminated for Cause,M ,White,Production       ,60340,4/2/2012,9/27/2018,attendance,16
+10296,"Evensen, April",Terminated for Cause,F,White,Production       ,59124,2/17/2014,2/25/2018,"no-call, no-show",19
+10290,"Exantus, Susan",Terminated for Cause,F,Black or African American,Software Engineering,99280,5/2/2011,6/5/2013,attendance,19
+10263,"Faller, Megan ",Active,F,Black or African American,Production       ,71776,7/7/2014,,N/A-StillEmployed,17
+10136,"Fancett, Nicole",Active,F,Black or African American,Production       ,65902,2/17/2014,,N/A-StillEmployed,7
+10189,"Ferguson, Susan",Voluntarily Terminated,F,White,Production       ,57748,11/7/2011,5/17/2016,military,16
+10308,"Fernandes, Nilson  ",Active,M ,White,Production       ,64057,5/11/2015,,N/A-StillEmployed,15
+10309,"Fett, Boba",Active,M ,White,IT/IS,53366,3/30/2015,,N/A-StillEmployed,2
+10049,"Fidelia,  Libby",Active,F,White,Production       ,58530,1/9/2012,,N/A-StillEmployed,19
+10093,"Fitzpatrick, Michael  J",Voluntarily Terminated,M ,White,Production       ,72609,5/16/2011,6/24/2013,hours,20
+10163,"Foreman, Tanya",Voluntarily Terminated,F,White,Production       ,55965,4/4/2011,1/9/2013,career change,6
+10305,"Forrest, Alex",Terminated for Cause,M ,White,Sales,70187,9/29/2014,8/19/2018,Fatal attraction,7
+10015,"Foss, Jason",Active,M ,Black or African American,IT/IS,178000,4/15/2011,,N/A-StillEmployed,15
+10080,"Foster-Baker, Amy",Active,F,White,Admin Offices,99351,1/5/2009,,N/A-StillEmployed,3
+10258,"Fraval, Maruk ",Active,M ,Black or African American,Sales,67251,9/6/2011,,N/A-StillEmployed,7
+10273,"Galia, Lisa",Active,F,White,IT/IS,65707,5/1/2010,,N/A-StillEmployed,1
+10111,"Garcia, Raul",Active,M ,White,Production       ,52249,3/30/2015,,N/A-StillEmployed,5
+10257,"Gaul, Barbara",Active,F,Black or African American,Production       ,53171,5/16/2011,,N/A-StillEmployed,12
+10159,"Gentry, Mildred",Active,F,Black or African American,Production       ,51337,3/30/2015,,N/A-StillEmployed,19
+10122,"Gerke, Melisa",Voluntarily Terminated,F,Black or African American,Production       ,51505,11/7/2011,11/15/2016,hours,2
+10142,"Gill, Whitney  ",Terminated for Cause,F,Black or African American,Sales,59370,7/7/2014,9/5/2015,attendance,7
+10283,"Gilles, Alex",Voluntarily Terminated,M ,Black or African American,Production       ,54933,4/2/2012,6/25/2015,military,15
+10018,"Girifalco, Evelyn",Active,F,Two or more races,Production       ,57815,9/29/2014,,N/A-StillEmployed,3
+10255,"Givens, Myriam",Active,F,White,Sales,61555,2/16/2015,,N/A-StillEmployed,20
+10246,"Goble, Taisha",Terminated for Cause,F,White,IT/IS,114800,2/16/2015,3/15/2015,"no-call, no-show",10
+10228,"Goeth, Amon",Active,M ,White,IT/IS,74679,3/30/2015,,N/A-StillEmployed,20
+10243,"Gold, Shenice  ",Active,F,White,Production       ,53018,11/11/2013,,N/A-StillEmployed,7
+10031,"Gonzalez, Cayo",Active,M ,Black or African American,Production       ,59892,7/11/2011,,N/A-StillEmployed,1
+10300,"Gonzalez, Juan",Voluntarily Terminated,M ,Black or African American,Production       ,68898,4/26/2010,5/30/2011,career change,10
+10101,"Gonzalez, Maria",Active,F,White,IT/IS,61242,1/5/2015,,N/A-StillEmployed,11
+10237,"Good, Susan",Active,F,White,Production       ,66825,5/12/2014,,N/A-StillEmployed,20
+10051,"Gordon, David",Active,M ,White,Production       ,48285,7/2/2012,,N/A-StillEmployed,2
+10218,"Gosciminski, Phylicia  ",Active,F,American Indian or Alaska Native,Production       ,66149,9/30/2013,,N/A-StillEmployed,1
+10256,"Goyal, Roxana",Active,F,Asian,Production       ,49256,8/19/2013,,N/A-StillEmployed,3
+10098,"Gray, Elijiah  ",Active,M ,White,Production       ,62957,6/2/2015,,N/A-StillEmployed,2
+10059,"Gross, Paula",Voluntarily Terminated,F,White,Production       ,63813,2/21/2011,1/11/2014,more money,17
+10234,"Gruber, Hans",Active,M ,Black or African American,IT/IS,99020,4/20/2017,,N/A-StillEmployed,8
+10109,"Guilianno, Mike",Voluntarily Terminated,M ,Two or more races,Sales,71707,3/7/2012,10/31/2014,relocation out of area,20
+10125,"Handschiegl, Joanne",Active,F,White,Production       ,54828,11/28/2011,,N/A-StillEmployed,13
+10074,"Hankard, Earnest",Active,M ,White,Production       ,64246,11/11/2013,,N/A-StillEmployed,20
+10097,"Harrington, Christie ",Voluntarily Terminated,F,White,Production       ,52177,1/9/2012,12/15/2015,retiring,8
+10007,"Harrison, Kara",Active,F,White,Production       ,62065,5/12/2014,,N/A-StillEmployed,5
+10129,"Heitzman, Anthony",Active,M ,White,Production       ,46998,8/13/2012,,N/A-StillEmployed,1
+10075,"Hendrickson, Trina",Voluntarily Terminated,F,White,Production       ,68099,1/10/2011,6/18/2013,hours,15
+10167,"Hitchcock, Alfred",Active,M ,American Indian or Alaska Native,Sales,70545,8/18/2014,,N/A-StillEmployed,9
+10195,"Homberger, Adrienne  J",Voluntarily Terminated,F,White,Production       ,63478,8/15/2011,4/7/2012,relocation out of area,16
+10112,"Horton, Jayne",Active,F,White,IT/IS,97999,3/30/2015,,N/A-StillEmployed,4
+10272,"Houlihan, Debra",Active,F,White,Sales,180000,5/5/2014,,N/A-StillEmployed,19
+10182,"Howard, Estelle",Terminated for Cause,F,Black or African American,Admin Offices,49920,2/16/2015,4/15/2015,"no-call, no-show",6
+10248,"Hudson, Jane",Active,F,White,Production       ,55425,2/20/2012,,N/A-StillEmployed,4
+10201,"Hunts, Julissa",Active,F,White,Production       ,69340,6/6/2016,,N/A-StillEmployed,4
+10214,"Hutter, Rosalie",Active,F,White,Production       ,64995,6/5/2015,,N/A-StillEmployed,6
+10160,"Huynh, Ming",Voluntarily Terminated,F,White,Production       ,68182,2/21/2011,4/1/2013,unhappy,18
+10289,"Immediato, Walter",Voluntarily Terminated,M ,Asian,Production       ,83082,2/21/2011,9/24/2012,unhappy,4
+10139,"Ivey, Rose ",Active,F,White,Production       ,51908,8/19/2013,,N/A-StillEmployed,14
+10227,"Jackson, Maryellen",Active,F,Black or African American,Production       ,61242,11/5/2012,,N/A-StillEmployed,7
+10236,"Jacobi, Hannah  ",Active,F,White,Production       ,45069,9/30/2013,,N/A-StillEmployed,7
+10009,"Jeannite, Tayana",Active,F,American Indian or Alaska Native,Production       ,60724,7/5/2011,,N/A-StillEmployed,11
+10060,"Jhaveri, Sneha  ",Active,F,White,Production       ,60436,1/6/2014,,N/A-StillEmployed,9
+10034,"Johnson, George",Voluntarily Terminated,M ,White,Production       ,46837,11/7/2011,4/29/2018,more money,9
+10156,"Johnson, Noelle ",Active,F,Asian,IT/IS,105700,1/5/2015,,N/A-StillEmployed,2
+10036,"Johnston, Yen",Active,F,White,Production       ,63322,7/7/2014,,N/A-StillEmployed,1
+10138,"Jung, Judy  ",Voluntarily Terminated,F,Black or African American,Production       ,61154,1/10/2011,4/1/2016,unhappy,4
+10244,"Kampew, Donysha",Voluntarily Terminated,F,White,Sales,68999,11/7/2011,4/24/2014,maternity leave - did not return,2
+10192,"Keatts, Kramer ",Active,M ,White,Production       ,50482,9/30/2013,,N/A-StillEmployed,10
+10231,"Khemmich, Bartholemew",Active,M ,White,Sales,65310,8/19/2013,,N/A-StillEmployed,13
+10089,"King, Janet",Active,F,White,Executive Office,250000,7/2/2012,,N/A-StillEmployed,10
+10166,"Kinsella, Kathleen  ",Voluntarily Terminated,F,White,Production       ,54005,9/26/2011,6/4/2015,more money,16
+10170,"Kirill, Alexandra  ",Voluntarily Terminated,F,White,Production       ,45433,9/26/2011,1/9/2014,more money,6
+10208,"Knapp, Bradley  J",Active,M ,Black or African American,Production       ,46654,2/17/2014,,N/A-StillEmployed,3
+10176,"Kretschmer, John",Active,M ,Asian,Production       ,63973,1/10/2011,,N/A-StillEmployed,17
+10165,"Kreuger, Freddy",Active,M ,Black or African American,Sales,71339,3/7/2011,,N/A-StillEmployed,20
+10113,"Lajiri,  Jyoti",Active,M ,White,IT/IS,93206,11/10/2014,,N/A-StillEmployed,7
+10092,"Landa, Hans",Terminated for Cause,M ,White,Production       ,82758,1/10/2011,12/12/2015,attendance,9
+10106,"Langford, Lindsey",Voluntarily Terminated,F,Asian,Production       ,66074,1/7/2013,3/31/2014,Another position,20
+10052,"Langton, Enrico",Active,M ,White,Production       ,46120,7/9/2012,,N/A-StillEmployed,13
+10038,"LaRotonda, William  ",Active,M ,Black or African American,Admin Offices,64520,1/6/2014,,N/A-StillEmployed,3
+10249,"Latif, Mohammed",Voluntarily Terminated,M ,White,Production       ,61962,4/2/2012,4/15/2013,more money,20
+10232,"Le, Binh",Active,F,Asian,IT/IS,81584,10/2/2016,,N/A-StillEmployed,2
+10087,"Leach, Dallas",Voluntarily Terminated,F,Asian,Production       ,63676,9/26/2011,8/19/2018,return to school,17
+10134,"LeBlanc, Brandon  R",Active,M ,White,Admin Offices,93046,1/5/2016,,N/A-StillEmployed,20
+10251,"Lecter, Hannibal",Active,M ,Asian,Production       ,64738,5/14/2012,,N/A-StillEmployed,10
+10103,"Leruth, Giovanni",Active,M ,Black or African American,Sales,70468,4/30/2012,,N/A-StillEmployed,16
+10017,"Liebig, Ketsia",Active,F,White,Production       ,77915,9/30/2013,,N/A-StillEmployed,11
+10186,"Linares, Marilyn ",Voluntarily Terminated,F,White,Production       ,52624,7/5/2011,9/26/2018,unhappy,16
+10137,"Linden, Mathew",Active,M ,White,Production       ,63450,7/8/2013,,N/A-StillEmployed,7
+10008,"Lindsay, Leonara ",Active,F,Black or African American,IT/IS,51777,1/21/2011,,N/A-StillEmployed,14
+10096,"Lundy, Susan",Voluntarily Terminated,F,White,Production       ,67237,7/8/2013,9/15/2016,more money,15
+10035,"Lunquist, Lisa",Active,F,Black or African American,Production       ,73330,8/19/2013,,N/A-StillEmployed,19
+10057,"Lydon, Allison",Active,F,Black or African American,Production       ,52057,2/16/2015,,N/A-StillEmployed,6
+10004,"Lynch, Lindsay",Voluntarily Terminated,F,Black or African American,Production       ,47434,11/7/2011,11/14/2015,Another position,17
+10191,"MacLennan, Samuel",Voluntarily Terminated,M ,White,Production       ,52788,9/24/2012,9/26/2017,hours,18
+10219,"Mahoney, Lauren  ",Active,F,White,Production       ,45395,1/6/2014,,N/A-StillEmployed,14
+10077,"Manchester, Robyn",Active,F,White,Production       ,62385,5/11/2016,,N/A-StillEmployed,4
+10073,"Mancuso, Karen",Voluntarily Terminated,F,Two or more races,Production       ,68407,7/5/2011,8/19/2012,Another position,16
+10279,"Mangal, Debbie",Active,F,White,Production       ,61349,11/11/2013,,N/A-StillEmployed,11
+10110,"Martin, Sandra",Active,F,Asian,Software Engineering,105688,11/11/2013,,N/A-StillEmployed,14
+10053,"Maurice, Shana",Active,F,White,Production       ,54132,5/31/2011,,N/A-StillEmployed,8
+10076,"Carthy, B'rigit",Active,F,Black or African American,Production       ,55315,3/30/2015,,N/A-StillEmployed,16
+10145,"Mckenna, Sandy",Active,F,Black or African American,Production       ,62810,1/7/2013,,N/A-StillEmployed,20
+10202,"McKinzie, Jac",Active,M ,Two or more races,Sales,63291,7/6/2016,,N/A-StillEmployed,7
+10128,"Meads, Elizabeth",Voluntarily Terminated,F,Black or African American,Production       ,62659,4/2/2012,11/11/2016,Another position,17
+10068,"Medeiros, Jennifer",Active,F,White,Production       ,55688,3/30/2015,,N/A-StillEmployed,10
+10116,"Miller, Brannon",Active,M ,Hispanic,Production       ,83667,8/16/2012,,N/A-StillEmployed,2
+10298,"Miller, Ned",Voluntarily Terminated,M ,White,Production       ,55800,8/15/2011,9/4/2014,unhappy,6
+10213,"Monkfish, Erasumus",Active,M ,White,Production       ,58207,11/7/2011,,N/A-StillEmployed,14
+10288,"Monroe, Peter",Active,M ,Black or African American,IT/IS,157000,2/15/2012,,N/A-StillEmployed,13
+10025,"Monterro, Luisa",Active,F,Black or African American,Production       ,72460,5/13/2013,,N/A-StillEmployed,1
+10223,"Moran, Patrick",Active,M ,Black or African American,Production       ,72106,1/9/2012,,N/A-StillEmployed,12
+10151,"Morway, Tanya",Active,F,White,IT/IS,52599,2/16/2015,,N/A-StillEmployed,6
+10254,"Motlagh,  Dawn",Active,F,White,Production       ,63430,4/1/2013,,N/A-StillEmployed,18
+10120,"Moumanil, Maliki ",Active,M ,Black or African American,Production       ,74417,5/13/2013,,N/A-StillEmployed,11
+10216,"Myers, Michael",Active,M ,Asian,Production       ,57575,7/8/2013,,N/A-StillEmployed,13
+10079,"Navathe, Kurt",Active,M ,Asian,IT/IS,87921,2/10/2017,,N/A-StillEmployed,17
+10215,"Ndzi, Colombui",Voluntarily Terminated,M ,Black or African American,Production       ,50470,9/26/2011,4/4/2014,return to school,19
+10185,"Ndzi, Horia",Voluntarily Terminated,M ,White,Production       ,46664,4/1/2013,5/25/2016,more money,10
+10063,"Newman, Richard ",Active,M ,White,Production       ,48495,5/12/2014,,N/A-StillEmployed,11
+10037,"Ngodup, Shari ",Active,F,Black or African American,Production       ,52984,4/1/2013,,N/A-StillEmployed,12
+10042,"Nguyen, Dheepa",Active,F,Two or more races,Sales,63695,7/8/2013,,N/A-StillEmployed,2
+10206,"Nguyen, Lei-Ming",Active,F,White,Production       ,62061,7/8/2013,,N/A-StillEmployed,4
+10104,"Nowlan, Kristie",Active,F,White,Production       ,66738,11/10/2014,,N/A-StillEmployed,5
+10303,"O'hare, Lynn",Terminated for Cause,F,Two or more races,Production       ,52674,3/31/2014,5/1/2018,performance,3
+10078,"Oliver, Brooke ",Voluntarily Terminated,F,Asian,Production       ,71966,5/14/2012,8/19/2013,unhappy,17
+10121,"Onque, Jasmine",Active,F,White,Sales,63051,9/30/2013,,N/A-StillEmployed,1
+10021,"Osturnka, Adeel",Active,M ,White,Production       ,47414,9/30/2013,,N/A-StillEmployed,13
+10281,"Owad, Clinton",Active,M ,Black or African American,Production       ,53060,2/17/2014,,N/A-StillEmployed,6
+10041,"Ozark, Travis",Active,M ,White,Sales,68829,1/5/2015,,N/A-StillEmployed,18
+10148,"Panjwani, Nina",Voluntarily Terminated,F,White,Production       ,63515,2/7/2011,1/12/2014,Another position,7
+10005,"Patronick, Lucas",Voluntarily Terminated,M ,Black or African American,Software Engineering,108987,11/7/2011,9/7/2015,Another position,13
+10259,"Pearson, Randall",Voluntarily Terminated,M ,White,IT/IS,93093,12/1/2014,5/1/2016,performance,19
+10286,"Smith, Martin",Voluntarily Terminated,M ,Black or African American,Production       ,53564,1/10/2011,12/28/2017,career change,15
+10297,"Pelletier, Ermine",Voluntarily Terminated,F,Asian,Production       ,60270,7/5/2011,9/15/2015,unhappy,2
+10171,"Perry, Shakira",Voluntarily Terminated,F,White,Production       ,45998,5/16/2011,10/25/2015,medical issues,5
+10032,"Peters, Lauren",Voluntarily Terminated,F,White,Production       ,57954,5/16/2011,2/4/2013,more money,12
+10130,"Peterson, Ebonee  ",Voluntarily Terminated,F,White,Production       ,74669,10/25/2010,5/18/2016,Another position,6
+10217,"Petingill, Shana  ",Active,F,Asian,Production       ,74226,4/2/2012,,N/A-StillEmployed,14
+10016,"Petrowsky, Thelma",Active,F,Black or African American,IT/IS,93554,11/10/2014,,N/A-StillEmployed,16
+10050,"Pham, Hong",Voluntarily Terminated,M ,Asian,Production       ,64724,7/5/2011,11/30/2012,more money,13
+10164,"Pitt, Brad ",Active,M ,White,Production       ,47001,11/5/2007,,N/A-StillEmployed,15
+10124,"Potts, Xana",Active,F,Black or African American,Sales,61844,1/9/2012,,N/A-StillEmployed,9
+10187,"Power, Morissa",Voluntarily Terminated,F,Asian,Production       ,46799,5/16/2011,6/4/2018,Another position,14
+10225,"Punjabhi, Louis  ",Active,M ,White,Production       ,59472,1/6/2014,,N/A-StillEmployed,14
+10262,"Purinton, Janine",Voluntarily Terminated,F,White,Production       ,46430,9/24/2012,6/18/2013,unhappy,16
+10131,"Quinn, Sean",Voluntarily Terminated,M ,Black or African American,Software Engineering,83363,2/21/2011,8/15/2015,career change,4
+10239,"Rachael, Maggie",Active,F,Black or African American,IT/IS,95920,10/2/2016,,N/A-StillEmployed,10
+10152,"Rarrick, Quinn",Voluntarily Terminated,M ,White,Production       ,61729,9/26/2011,4/7/2018,more money,19
+10140,"Ren, Kylo",Active,M ,White,Sales,61809,5/12/2014,,N/A-StillEmployed,4
+10058,"Rhoads, Thomas",Voluntarily Terminated,M ,White,Production       ,45115,5/16/2011,1/15/2016,retiring,11
+10011,"Rivera, Haley  ",Active,F,Asian,Production       ,46738,11/28/2011,,N/A-StillEmployed,16
+10230,"Roberson, May",Voluntarily Terminated,F,Black or African American,Production       ,64971,9/26/2011,10/22/2011,return to school,10
+10224,"Robertson, Peter",Voluntarily Terminated,M ,White,Production       ,55578,7/5/2011,2/8/2012,Another position,13
+10047,"Robinson, Alain  ",Voluntarily Terminated,M ,Black or African American,Production       ,50428,1/10/2011,1/26/2016,attendance,11
+10285,"Robinson, Cherly",Terminated for Cause,F,White,Production       ,61422,1/10/2011,5/17/2016,attendance,16
+10020,"Robinson, Elias",Active,M ,White,Production       ,63353,7/8/2013,,N/A-StillEmployed,4
+10162,"Roby, Lori ",Active,F,White,IT/IS,89883,2/16/2015,,N/A-StillEmployed,15
+10149,"Roehrich, Bianca",Voluntarily Terminated,F,White,IT/IS,120000,1/5/2015,11/10/2018,Another position,12
+10086,"Roper, Katie",Active,F,Black or African American,IT/IS,150290,1/7/2017,,N/A-StillEmployed,17
+10054,"Rose, Ashley  ",Active,F,White,Production       ,60627,1/6/2014,,N/A-StillEmployed,8
+10065,"Rossetti, Bruno",Voluntarily Terminated,M ,White,Production       ,53180,4/4/2011,8/13/2018,Another position,4
+10198,"Roup,Simon",Active,M ,White,IT/IS,140920,1/20/2013,,N/A-StillEmployed,13
+10222,"Ruiz, Ricardo",Voluntarily Terminated,M ,Black or African American,IT/IS,148999,1/9/2012,11/4/2015,hours,8
+10126,"Saada, Adell",Active,F,White,Software Engineering,86214,11/5/2012,,N/A-StillEmployed,2
+10295,"Saar-Beckles, Melinda",Active,F,Black or African American,Production       ,47750,7/4/2016,,N/A-StillEmployed,4
+10260,"Sadki, Nore  ",Voluntarily Terminated,M ,White,Production       ,46428,1/5/2009,7/30/2018,relocation out of area,7
+10233,"Sahoo, Adil",Active,M ,White,Production       ,57975,8/30/2010,,N/A-StillEmployed,13
+10229,"Salter, Jason",Voluntarily Terminated,M ,Black or African American,IT/IS,88527,1/5/2015,10/31/2015,hours,2
+10169,"Sander, Kamrin",Active,F,Black or African American,Production       ,56147,9/29/2014,,N/A-StillEmployed,2
+10071,"Sewkumar, Nori",Active,F,Asian,Production       ,50923,9/30/2013,,N/A-StillEmployed,14
+10179,"Shepard, Anita ",Active,F,White,IT/IS,50750,9/30/2014,,N/A-StillEmployed,7
+10091,"Shields, Seffi",Active,F,White,Production       ,52087,8/19/2013,,N/A-StillEmployed,15
+10178,"Simard, Kramer",Active,M ,White,IT/IS,87826,1/5/2015,,N/A-StillEmployed,16
+10039,"Singh, Nan ",Active,F,White,Admin Offices,51920,5/1/2015,,N/A-StillEmployed,2
+10095,"Sloan, Constance",Voluntarily Terminated,F,White,Production       ,63878,10/26/2009,4/8/2015,maternity leave - did not return,20
+10027,"Smith, Joe",Active,M ,White,Production       ,60656,9/29/2014,,N/A-StillEmployed,4
+10291,"Smith, John",Active,M ,Black or African American,Sales,72992,5/18/2014,,N/A-StillEmployed,16
+10153,"Smith, Leigh Ann",Voluntarily Terminated,F,Black or African American,Admin Offices,55000,9/26/2011,9/25/2013,career change,17
+10157,"Smith, Sade",Active,F,White,Production       ,58939,11/11/2013,,N/A-StillEmployed,16
+10119,"Soto, Julia ",Active,F,Black or African American,IT/IS,66593,6/10/2011,,N/A-StillEmployed,19
+10180,"Soze, Keyser",Active,M ,Asian,IT/IS,87565,6/30/2016,,N/A-StillEmployed,13
+10302,"Sparks, Taylor  ",Active,F,White,Production       ,64021,2/20/2012,,N/A-StillEmployed,20
+10090,"Spirea, Kelley",Active,F,White,Production       ,65714,10/2/2012,,N/A-StillEmployed,15
+10030,"Squatrito, Kristen",Voluntarily Terminated,F,White,Production       ,62425,5/13/2013,6/29/2015,unhappy,16
+10278,"Stanford,Barbara  M",Active,F,Two or more races,Production       ,47961,1/10/2011,,N/A-StillEmployed,9
+10307,"Stansfield, Norman",Active,M ,White,Sales,58273,5/12/2014,,N/A-StillEmployed,5
+10147,"Steans, Tyrone  ",Active,M ,White,Admin Offices,63003,9/29/2014,,N/A-StillEmployed,9
+10266,"Stoica, Rick",Active,M ,Asian,Production       ,61355,2/17/2014,,N/A-StillEmployed,4
+10241,"Strong, Caitrin",Active,F,Black or African American,Sales,60120,9/27/2010,,N/A-StillEmployed,18
+10158,"Sullivan, Kissy ",Active,F,Black or African American,Production       ,63682,1/8/2009,,N/A-StillEmployed,12
+10117,"Sullivan, Timothy",Active,M ,White,Production       ,63025,1/5/2015,,N/A-StillEmployed,10
+10209,"Sutwell, Barbara",Active,F,Asian,Production       ,59238,5/14/2012,,N/A-StillEmployed,13
+10024,"Szabo, Andrew",Active,M ,White,Software Engineering,92989,7/7/2014,,N/A-StillEmployed,1
+10173,"Tannen, Biff",Active,M ,White,IT/IS,90100,4/20/2017,,N/A-StillEmployed,14
+10221,"Tavares, Desiree  ",Voluntarily Terminated,F,Black or African American,Production       ,60754,4/27/2009,4/1/2013,Another position,11
+10146,"Tejeda, Lenora ",Voluntarily Terminated,F,White,Production       ,72202,5/16/2011,7/8/2017,Another position,3
+10161,"Terry, Sharlene ",Active,F,Black or African American,Sales,58370,9/29/2014,,N/A-StillEmployed,18
+10141,"Theamstern, Sophia",Voluntarily Terminated,F,White,Production       ,48413,7/5/2011,9/5/2016,return to school,1
+10268,"Thibaud, Kenneth",Voluntarily Terminated,M ,White,Production       ,67176,6/25/2007,8/30/2010,military,15
+10123,"Tippett, Jeanette",Active,F,Black or African American,Production       ,56339,2/18/2013,,N/A-StillEmployed,4
+10013,"Torrence, Jack",Active,M ,White,Sales,64397,1/9/2006,,N/A-StillEmployed,6
+10287,"Trang, Mei",Active,F,White,Production       ,63025,2/17/2014,,N/A-StillEmployed,18
+10044,"Tredinnick, Neville ",Voluntarily Terminated,M ,White,IT/IS,75281,1/5/2015,2/12/2016,medical issues,11
+10102,"True, Edward",Voluntarily Terminated,M ,Black or African American,Software Engineering,100416,2/18/2013,4/15/2018,medical issues,9
+10270,"Trzeciak, Cybil",Voluntarily Terminated,F,White,Production       ,74813,1/10/2011,7/2/2014,unhappy,5
+10045,"Turpin, Jumil",Active,M ,White,IT/IS,76029,3/30/2015,,N/A-StillEmployed,8
+10205,"Valentin,Jackie",Active,F,Two or more races,Sales,57859,7/5/2011,,N/A-StillEmployed,16
+10014,"Veera, Abdellah ",Voluntarily Terminated,M ,White,Production       ,58523,8/13/2012,2/5/2016,maternity leave - did not return,15
+10144,"Vega, Vincent",Active,M ,White,Production       ,88976,8/1/2011,,N/A-StillEmployed,19
+10253,"Villanueva, Noah",Active,M ,Asian,Sales,55875,3/5/2012,,N/A-StillEmployed,11
+10118,"Voldemort, Lord",Terminated for Cause,M ,Black or African American,IT/IS,113999,2/16/2015,2/22/2017,"no-call, no-show",9
+10022,"Volk, Colleen",Terminated for Cause,F,White,Production       ,49773,9/26/2011,2/8/2016,gross misconduct,18
+10183,"Von Massenbach, Anna",Active,F,White,Production       ,62068,7/5/2015,,N/A-StillEmployed,7
+10190,"Walker, Roger",Active,M ,Black or African American,Production       ,66541,8/18/2014,,N/A-StillEmployed,4
+10274,"Wallace, Courtney  E",Voluntarily Terminated,F,Black or African American,Production       ,80512,9/26/2011,1/2/2012,Another position,5
+10293,"Wallace, Theresa",Voluntarily Terminated,F,White,Production       ,50274,8/13/2012,9/1/2015,career change,13
+10172,"Wang, Charlie",Active,M ,Asian,IT/IS,84903,2/15/2017,,N/A-StillEmployed,17
+10127,"Warfield, Sarah",Active,F,Asian,IT/IS,107226,3/30/2015,,N/A-StillEmployed,7
+10072,"Whittier, Scott",Voluntarily Terminated,M ,White,Production       ,58371,1/10/2011,5/15/2014,hours,11
+10048,"Wilber, Barry",Voluntarily Terminated,M ,White,Production       ,55140,5/16/2011,9/7/2015,unhappy,7
+10204,"Wilkes, Annie",Voluntarily Terminated,F,White,Production       ,58062,1/10/2011,5/14/2012,Another position,9
+10264,"Williams, Jacquelyn  ",Voluntarily Terminated,F,Black or African American,Production       ,59728,1/9/2012,6/27/2015,relocation out of area,16
+10033,"Winthrop, Jordan  ",Voluntarily Terminated,M ,White,Production       ,70507,1/7/2013,2/21/2016,retiring,7
+10174,"Wolk, Hang  T",Active,F,White,Production       ,60446,9/29/2014,,N/A-StillEmployed,14
+10135,"Woodson, Jason",Active,M ,White,Production       ,65893,7/7/2014,,N/A-StillEmployed,13
+10301,"Ybarra, Catherine ",Voluntarily Terminated,F,Asian,Production       ,48513,9/2/2008,9/29/2015,Another position,4
+10010,"Zamora, Jennifer",Active,F,White,IT/IS,220450,4/10/2010,,N/A-StillEmployed,16
+10043,"Zhou, Julia",Active,F,White,IT/IS,89292,3/30/2015,,N/A-StillEmployed,11
+10271,"Zima, Colleen",Active,F,Asian,Production       ,45046,9/29/2014,,N/A-StillEmployed,2

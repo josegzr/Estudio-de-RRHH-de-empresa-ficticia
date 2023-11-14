@@ -1,0 +1,8 @@
+# Excluir archivos de checkpoints de IPython Notebook
+.ipynb_checkpoints/
+
+# Excluir archivos CSV y XLSX específicos
+WA_Fn-UseC_-HR-Employee-Attrition.csv
+
+#Excluir archivos hyper
+HRDataset_v14.hyper
